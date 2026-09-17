@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-/*
- * Comentário de múltiplas linhas
- */
-
-int main() {
-    // Comentário de uma linha
-    printf("Oi turma!\n");
+int main()
+{
+    printf("Oi turma!!!");
     return 0;
 }
+
+
