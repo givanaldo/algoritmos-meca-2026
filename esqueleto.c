@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Oi turma!!!");
+    printf(" ");
     return 0;
 }
 
